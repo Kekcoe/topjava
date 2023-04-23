@@ -10,9 +10,9 @@
 <table>
     <thead>
     <tr>
-        <th>Время</th>
-        <th>Название блюда</th>
-        <th>Количество калорий</th>
+        <th>Date</th>
+        <th>Description</th>
+        <th>Calories</th>
     </tr>
     </thead>
     <tbody>
